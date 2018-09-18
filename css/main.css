@@ -1,0 +1,352 @@
+@import url('https://fonts.googleapis.com/css?family=Tulpen+One');
+@import url('https://fonts.googleapis.com/css?family=Chivo:300,400,700');
+
+.tx{
+    font-family: 'Tulpen One';
+    font-style: normal;
+    position: absolute;
+    width: 605px;
+    height: auto;
+    bottom: 85px;
+    left: 120px;
+}
+
+.x{
+    font-family: 'Tulpen One';
+    font-style: normal;
+    position: absolute;
+    width: 480px;
+    height: auto;
+    bottom: 330px;
+    left: 60px;
+}
+
+.x1{
+    position: absolute;
+    width: 125px;
+    height: 100px;
+    bottom: 165px;
+    left: 65px;
+}
+
+.x2{
+    position: absolute;
+    width: 125px;
+    height: 100px;
+    bottom: 165px;
+    left: 275.5px;
+}
+
+.x3{
+    position: absolute;
+    width: 125px;
+    height: 100px;
+    bottom: 165px;
+    left: 485px;
+}
+
+.x4{
+    position: absolute;
+    width: 125px;
+    height: 100px;
+    bottom: 165px;
+    left: 695.5px;
+}
+
+.x5{
+    position: absolute;
+    width: 125px;
+    height: 100px;
+    bottom: 50px;
+    left: 170px;
+}
+
+.x6{
+    position: absolute;
+    width: 125px;
+    height: 100px;
+    bottom: 50px;
+    left: 380px;
+}
+
+.x7{
+    position: absolute;
+    width: 125px;
+    height: 100px;
+    bottom: 50px;
+    left: 590px;
+}
+
+div.t{
+    font-size: 50px;
+}
+
+div.n{
+    font-size: 70px;
+}
+
+p.ptx{
+    font-family: 'Chivo';
+    font-weight: 300;
+    font-size: 25px;
+    text-align: justify;
+}
+
+p.ptx2{
+    font-family: 'Chivo';
+    font-weight: 400;
+    font-size: 12px;
+    color: red;
+    text-align: center;
+}
+
+a{
+    color: white;
+}
+
+span{
+    font-weight: bold;
+}
+
+span.a{
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+hr{
+    height: 2px;
+    width: 500px;
+}
+
+.imr{
+    position: relative;
+    width: 1024px;
+    height: 768px;
+}
+
+.im{
+    width: 1024px;
+    height: 768px;
+}
+
+.im1{
+    width: 150px;
+    height: auto;
+    position: absolute;
+    bottom: 160px;
+    left: 60px;
+}
+
+.im2{
+    width: 150px;
+    height: auto;
+    position: absolute;
+    bottom: 160px;
+    left: 270px;
+}
+
+.im3{
+    width: 150px;
+    height: auto;
+    position: absolute;
+    bottom: 160px;
+    left: 480px;
+}
+
+.im4{
+    width: 150px;
+    height: auto;
+    position: absolute;
+    bottom: 160px;
+    left: 690px;
+}
+
+.im5{
+    width: 150px;
+    height: auto;
+    position: absolute;
+    bottom: 45px;
+    left: 165px;
+}
+
+.im6{
+    width: 150px;
+    height: auto;
+    position: absolute;
+    bottom: 45px;
+    left: 375px;
+}
+
+.im7{
+    width: 150px;
+    height: auto;
+    position: absolute;
+    bottom: 45px;
+    left: 585px;
+}
+
+.im11{
+    width: 130px;
+    height: auto;
+    position: absolute;
+    bottom: 162.5px;
+    left: 62.5px;
+}
+
+.im21{
+    width: 130px;
+    height: auto;
+    position: absolute;
+    bottom: 162.5px;
+    left: 273px;
+}
+
+.im31{
+    width: 130px;
+    height: auto;
+    position: absolute;
+    bottom: 162.5px;
+    left: 482.5px;
+}
+
+.im41{
+    width: 130px;
+    height: auto;
+    position: absolute;
+    bottom: 162.5px;
+    left: 693px;
+}
+
+.im51{
+    width: 130px;
+    height: auto;
+    position: absolute;
+    bottom: 47.5px;
+    left: 167.5px;
+}
+
+.im61{
+    width: 130px;
+    height: auto;
+    position: absolute;
+    bottom: 47.5px;
+    left: 377.5px;
+}
+
+.im71{
+    width: 130px;
+    height: auto;
+    position: absolute;
+    bottom: 47.5px;
+    left: 587.5px;
+}
+
+.im12{
+    width: 125px;
+    height: auto;
+    position: absolute;
+    bottom: 165px;
+    left: 65px;
+}
+
+.im22{
+    width: 125px;
+    height: auto;
+    position: absolute;
+    bottom: 165px;
+    left: 275.5px;
+}
+
+.im32{
+    width: 125px;
+    height: auto;
+    position: absolute;
+    bottom: 165px;
+    left: 485px;
+}
+
+.im42{
+    width: 125px;
+    height: auto;
+    position: absolute;
+    bottom: 165px;
+    left: 695.5px;
+}
+
+.im52{
+    width: 125px;
+    height: auto;
+    position: absolute;
+    bottom: 50px;
+    left: 170px;
+}
+
+.im62{
+    width: 125px;
+    height: auto;
+    position: absolute;
+    bottom: 50px;
+    left: 380px;
+}
+
+.im72{
+    width: 125px;
+    height: auto;
+    position: absolute;
+    bottom: 50px;
+    left: 590px;
+}
+
+.imar{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background: #303030;
+    color: white;
+    bottom: 40px;
+    right: 40px;
+}
+
+.imal{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background: #262626;
+    color: white;
+    bottom: 40px;
+    right: 80px;
+}
+
+#fd{
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 13px;
+    margin-right: 13px;
+}
+
+.bt{
+    position: absolute;
+    width: 1024px;
+    height: auto;
+    top: 0;
+    left: 0;
+}
+
+.bb{
+    position: absolute;
+    width: 1024px;
+    height: auto;
+    bottom: 0;
+    right: 0;
+}
+
+.lg{
+    position: absolute;
+    width: 225px;
+    height: auto;
+    bottom: 100px;
+    right: 40px;
+}
